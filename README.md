@@ -1,5 +1,6 @@
 ### Hello, World! Raquel Carvalho aqui 👋
 Sou Tecnóloga em Sistemas de Computação pela Universidade Federal Fluminense (UFF), e atualmente estudo Back-end Java e Data Science.
+
 Atuei durante 11 anos na administração pública, com comprometimento profissional e conduta ética, realizando atividades de capacitação e assessoramento técnico à Gestores e Técnicos Municipais, além de acompanhamento e controle de índices de desempenho.
 
 - 🌊📸Apaixonada pelo **mar** e por **fotografia**.

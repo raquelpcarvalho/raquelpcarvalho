@@ -5,7 +5,7 @@ Atuei durante 11 anos na administração pública, com comprometimento profissio
 
 - 🌊📸Apaixonada pelo **mar** e por **fotografia**.
   
-- Atualmente mais focada em:
+- 👩🏾‍💻Atualmente mais focada em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   &nbsp;&nbsp;<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
